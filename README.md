@@ -7,6 +7,7 @@ Links below to visualize the notebooks rendered.
 | Notebook | Description |
 |--------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [Week5_Assignment_r1.ipynb](https://nbviewer.org/github/stevensmiley1989/Monet_GAN/blob/main/Week5_Assignment_r1.ipynb) | Jupyter Notebook |
+![Kaggle Results](https://github.com/stevensmiley1989/Monet_GAN/blob/main/Screenshot%20from%202024-10-14%2020-39-44.png)
 ## 2 Data Inputs <a class="anchor" id="2"></a>
 **Data Source**: https://www.kaggle.com/competitions/gan-getting-started/data
 
