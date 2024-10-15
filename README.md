@@ -8,7 +8,7 @@ Links below to visualize the notebooks rendered.
 |--------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [Week5_Assignment_r1.ipynb](https://nbviewer.org/github/stevensmiley1989/Monet_GAN/blob/main/Week5_Assignment_r1.ipynb) | Jupyter Notebook |
 ## 2 Data Inputs <a class="anchor" id="2"></a>
-**Data Source**: hhttps://www.kaggle.com/competitions/gan-getting-started/data
+**Data Source**: https://www.kaggle.com/competitions/gan-getting-started/data
 
 **Data Description**: 
 * 4 Directories:
